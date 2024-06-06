@@ -1,0 +1,62 @@
+{
+	"pages": [
+		// {
+		// 	"path": "pages/login/login",
+		// 	"style": {
+		// 		"navigationBarTitleText": "登录"
+		// 	}
+		// },
+		
+		// {
+		// 	"path": "pages/workbench/workbench",
+		// 	"style": {
+		// 		"navigationBarTitleText": "工作台",
+		// 		"navigationStyle": "custom"
+				
+		// 	}
+		// },
+		// {
+		// 	"path" : "pages/clue/clue",
+		// 	"style" : 
+		// 	{
+		// 		"navigationBarTitleText" : "线索列表"
+		// 	}
+		// },
+		{
+			"path" : "pages/clue/add/add",
+			"style" : 
+			{
+				"navigationBarTitleText" : "添加线索"
+			}
+		}
+		// ,
+		// {
+		// 	"path": "pages/me/me",
+		// 	"style": {
+		// 		"navigationBarTitleText": "我的"
+		// 	}
+		// }
+	],
+
+	// "tabBar": {
+		// "list": [{
+		// 		"pagePath": "pages/workbench/workbench",
+		// 		"text": "工作台"
+		// 	},
+		// 	{
+		// 		"pagePath": "pages/me/me",
+		// 		"text": "我的"
+		// 	}
+		// ]
+	// },
+
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	}
+}
